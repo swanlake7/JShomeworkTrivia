@@ -13,7 +13,7 @@ $(document).ready(function () {
             question: "This animal eats fruits and lives inside trees?",
             answerChoice: ["great horned owls", "sumatran rhinos", "japanese flying dwarf squirrel", "saiga antelopes"],
             theA: "japanese flying dwarf squirrel",
-            img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\warf.jpeg" >'
+            img: '<img id="pix" src="../images/warf.jpeg" >'
         },
 
         {
