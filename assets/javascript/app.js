@@ -6,7 +6,8 @@ $(document).ready(function () {
             question: "which is not a canine breed?",
             answerChoice: ["cattle dog", "corndog", "shepherd dog", "bulldog"],
             theA: "corndog",
-            img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\corndog.jpeg" >'
+            // img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\corndog.jpeg" >'
+            img: '<img id="pix" src="../images/corndog.jpeg"   />'
         },
 
         {
@@ -20,14 +21,14 @@ $(document).ready(function () {
             question: "In Moby Dick, the main character is: ",
             answerChoice: ["sperm whale", "narwhal", "great white", "killer whale"],
             theA: "sperm whale",
-            img: '<img id="pix"  src="C:\\Users\\Pearl\\Desktop\\moby.jpeg" >'
+            img: '<img id="pix"  src="../images/moby.jpeg" >'
         },
 
         {
             question: "what is another name for flying foxes?",
             answerChoice: ["cats", "fruit flies", "hamsters", "fruit bats"],
             theA: "fruit bats",
-            img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\batty.jpeg" >'
+            img: '<img id="pix" src="../images/batty.jpeg" >'
         },]
 
 
