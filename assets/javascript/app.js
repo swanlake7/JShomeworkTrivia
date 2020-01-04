@@ -7,28 +7,28 @@ $(document).ready(function () {
             answerChoice: ["cattle dog", "corndog", "shepherd dog", "bulldog"],
             theA: "corndog",
             // img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\corndog.jpeg" >'
-            img: '<img id="pix" src="../images/corndog.jpeg"   />'
+            img: '<img id="pix" src="https://makeyourmeals.com/wp-content/uploads/2018/05/corn-dogs.jpg"   />'
         },
 
         {
             question: "This animal eats fruits and lives inside trees?",
             answerChoice: ["great horned owls", "sumatran rhinos", "japanese flying dwarf squirrel", "saiga antelopes"],
             theA: "japanese flying dwarf squirrel",
-            img: '<img id="pix" src="../images/warf.jpeg" >'
+            img: '<img id="pix" src="https://i.chzbgr.com/full/7854938880/h5BC9D64C/" >'
         },
 
         {
             question: "In Moby Dick, the main character is: ",
             answerChoice: ["sperm whale", "narwhal", "great white", "killer whale"],
             theA: "sperm whale",
-            img: '<img id="pix"  src="../images/moby.jpeg" >'
+            img: '<img id="pix"  src="https://images-na.ssl-images-amazon.com/images/I/51-3tPs3VdL.jpg" >'
         },
 
         {
             question: "what is another name for flying foxes?",
             answerChoice: ["cats", "fruit flies", "hamsters", "fruit bats"],
             theA: "fruit bats",
-            img: '<img id="pix" src="../images/batty.jpeg" >'
+            img: '<img id="pix" src="https://i.imgur.com/OzBeJL1.jpg" >'
         },]
 
 
