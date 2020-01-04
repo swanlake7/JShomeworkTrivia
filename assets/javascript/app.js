@@ -6,8 +6,8 @@ $(document).ready(function () {
             question: "which is not a canine breed?",
             answerChoice: ["cattle dog", "corndog", "shepherd dog", "bulldog"],
             theA: "corndog",
-            // img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\corndog.jpeg" >'
-            img: '<img id="pix" src="https://makeyourmeals.com/wp-content/uploads/2018/05/corn-dogs.jpg"   />'
+            img: '<img id="pix" src="C:\\Users\\Pearl\\Desktop\\corndog.jpeg" >'
+            // img: '<img id="pix" src="https://makeyourmeals.com/wp-content/uploads/2018/05/corn-dogs.jpg"   />'
         },
 
         {
